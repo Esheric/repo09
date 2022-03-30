@@ -126,14 +126,6 @@ hr {
   margin-right: 1rem;
 }
 
-.underline {
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--gray);
-  margin-bottom: 2rem;
-}
-
-/* generic */
-
 .article-author {
   font-weight: 700;
   font-size: 1.4rem;
@@ -141,6 +133,12 @@ hr {
 
 ::placeholder {
   color: var(--dark);
+}
+
+.underline {
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--gray);
+  margin-bottom: 2rem;
 }
 
 /* header */
